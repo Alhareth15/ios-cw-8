@@ -1,5 +1,7 @@
 import UIKit
 
-// التمرين الأول
-// ClassWork 1
 
+var Name = "alhareth"
+var birthdayyear = 2006
+var age = 15
+print("myName/birthdayyear/age")
